@@ -1,0 +1,41 @@
+{
+  "name": "boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.1.0",
+    "history": "^4.7.2",
+    "lodash": "^4.17.5",
+    "moment": "^2.22.1",
+    "prop-types": "^15.6.1",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1",
+    "react-grid-gallery": "^0.4.8",
+    "react-images": "^0.5.17",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1",
+    "reactable": "^0.14.1",
+    "reactstrap": "^5.0.0-beta.3",
+    "reapop": "^1.2.0",
+    "redux": "^3.7.2",
+    "redux-persist": "^5.9.1",
+    "redux-thunk": "^2.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "babel-polyfill": "^6.26.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-react": "^7.7.0"
+  }
+}
